@@ -1,0 +1,10 @@
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] Using inline dependencies specified in Scala.
+[warn] Binary version (2.13.0-M1) for dependency org.scala-lang#scala-reflect;2.13.0-M1
+[warn] 	in default#scalareflection_2.12;1.0 differs from Scala binary version in project (2.12).
+[debug] Using inline dependencies specified in Scala.
+[warn] Binary version (2.13.0-M1) for dependency org.scala-lang#scala-reflect;2.13.0-M1
+[warn] 	in default#scalareflection$sources_javadoc_2.12;1.0 differs from Scala binary version in project (2.12).
+[warn] Binary version (2.13.0-M1) for dependency org.scala-lang#scala-library;2.13.0-M1
+[warn] 	in default#scalareflection$sources_javadoc_2.12;1.0 differs from Scala binary version in project (2.12).
